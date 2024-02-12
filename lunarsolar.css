@@ -1,0 +1,42 @@
+body
+{
+  background-color: black;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px
+}
+
+h1
+{
+  color: white;
+}
+
+h4
+{
+  color: white;
+}
+
+.shell
+{
+  min-width: 1680px;
+  width: 100%;
+}
+
+.grid
+{
+  text-align: center;
+  float: center;
+  width: 100%;
+}
+
+.nav-site-version
+{
+  text-align: right;
+  margin-right: 15px;
+}
+
+.nav-title
+{
+	text-align: center;
+}
